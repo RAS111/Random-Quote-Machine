@@ -1,0 +1,182 @@
+body {
+    background-color: rgb(235, 235, 235);
+}
+
+.card-header {
+    margin: auto;
+}
+
+.h1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer {
+    padding-top: 50px;
+}
+
+a {
+    margin-right: 455px;
+}
+
+.fa-4 {
+    font-size: 50px !important;
+}
+
+.buttons {
+    padding-top: 10px;
+}
+
+.btn {
+    margin-bottom: 30px;
+}
+
+@media (max-width: 1280px) {
+    a {
+        margin-right: 420px;
+    }
+}
+
+@media (max-width: 1180px) {
+    a {
+        margin-right: 375px;
+    }
+}
+
+@media (max-width: 1024px) {
+    a {
+        margin-right: 295px;
+    }
+}
+
+@media (max-width: 915px) {
+    a {
+        margin-right: 240px;
+    }
+
+    .h1 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .footer {
+        padding-top: 15px;
+    }
+}
+
+
+@media (max-width: 914px) {
+    a {
+        margin-right: 240px;
+    }
+}
+
+@media (max-width: 912px) {
+    a {
+        margin-right: 235px;
+    }
+}
+
+@media (max-width: 844px) {
+    a {
+        margin-right: 200px;
+    }
+
+    .h1 {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+}
+
+@media (max-width: 820px) {
+    a {
+        margin-right: 190px;
+    }
+}
+
+@media (max-width: 768px) {
+    a {
+        margin-right: 165px;
+    }
+}
+
+@media (max-width: 740px) {
+    a {
+        margin-right: 515px;
+    }
+
+    .h1 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .footer {
+        padding-top: 0px;
+    }
+}
+
+@media (max-width: 720px) {
+    a {
+        margin-right: 500px;
+    }
+}
+
+@media (max-width: 667px) {
+    a {
+        margin-right: 450px;
+    }
+}
+
+@media (max-width: 540px) {
+    a {
+        margin-right: 320px;
+    }
+}
+
+@media (max-width: 512px) {
+    a {
+        margin-right: 290px;
+    }
+}
+
+@media (max-width: 414px) {
+    a {
+        margin-right: 190px;
+    }
+}
+
+@media (max-width: 412px) {
+    a {
+        margin-right: 190px;
+    }
+}
+
+@media (max-width: 393px) {
+    a {
+        margin-right: 170px;
+    }
+}
+
+@media (max-width: 375px) {
+    a {
+        margin-right: 155px;
+    }
+}
+
+@media (max-width: 360px) {
+    a {
+        margin-right: 140px;
+    }
+}
+
+@media (max-width: 280px) {
+    a {
+        margin-right: 60px;
+    }
+}
+
+
+
+
+
+
